@@ -1,3 +1,5 @@
+# Introduction 02
+
 n = int(input())
 
 if n % 2 == 0:

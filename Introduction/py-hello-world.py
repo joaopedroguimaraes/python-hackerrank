@@ -1,6 +1,3 @@
-# Input Format
-# You do not need to read any input in this challenge.
+# Introduction 01
 
-# Output Format
-# Print Hello, World! to stdout.
 print("Hello, World!")
